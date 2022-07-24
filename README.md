@@ -1,4 +1,4 @@
-Coursework UC Berkeley Foundations of Data Science (Data8)
+Coursework UC Berkeley Foundations of Data Science ( Data8 http://data8.org/fa21/ )
 Instructors: David Wagner and Ani Adhikari
 
 The contents include the topics covered for the course.
