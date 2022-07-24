@@ -11,6 +11,6 @@ The datascience library was used for analysis. More details about the library ca
  3. Classification
 
 
-This was a simple course that showed the relevance of data science to real worl problems.
+This was a simple course that showed the relevance of data science to real world problems.
 
 
